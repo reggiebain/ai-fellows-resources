@@ -5,12 +5,13 @@ Monte Carlo simulations are fundamental to modern artificial intelligence and ma
 ## Studnent Activity Notebook
 Click the link below to access the student notebook activity in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/user123/my-repo/blob/main/notebooks/monte_carlo_pi_simulation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reggiebain/ai-fellows-resources/blob/main/monte-carlo/monte_carlo_pi_simulation.ipynb)
+
 
 ## Teacher KEY
 Click the link below to open the teacher KEY in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./monte_carlo_pi_simulation_KEY.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reggiebain/ai-fellows-resources/blob/main/monte-carlo/monte_carlo_pi_simulation_KEY.ipynb)
 
 ## Grading Script
 Click here to access the python script for autograding the assignment. To run it, use the following command in the command line:
