@@ -67,12 +67,6 @@ An introduction to Monte Carlo methods through calculating π using random sampl
 5. Answer reflection questions
 6. Submit your completed notebook to your instructor
 
-### For Curriculum Developers
-
-Feel free to adapt, remix, and build upon these materials. All resources are designed to be:
-- **Modular:** Use individual components or complete packages
-- **Adaptable:** Modify for different grade levels and contexts
-- **Extensible:** Build additional activities and assessments
 
 ## Technical Requirements
 
@@ -91,15 +85,6 @@ python grade_monte_carlo.py student_notebook.ipynb
 ```
 
 This generates a detailed grade report saved as `student_notebook_grade_report.txt`.
-
-## Contributing
-
-These resources are developed as part of the GSSM Google AI Faculty Fellows program. If you're using these materials and have suggestions, adaptations, or improvements:
-
-1. Share your feedback with the AI Fellows community
-2. Document modifications that worked well in your classroom
-3. Contribute additional resources or lesson extensions
-
 
 ## Future Resources
 
