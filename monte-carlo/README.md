@@ -2,6 +2,20 @@
 
 Monte Carlo simulations are fundamental to modern artificial intelligence and machine learning. While this lesson uses a simple example—calculating π—the same principles of random sampling and probabilistic reasoning power cutting-edge AI systems.
 
+## Studnent Activity Notebook
+Click the link below to access the student notebook activity in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./monte_carlo_pi_simulation.ipynb)
+
+## Teacher KEY
+Click the link below to open the teacher KEY in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./monte_carlo_pi_simulation_KEY.ipynb)
+
+## Grading Script
+Click here to access the python script for autograding the assignment. To run it, use the following command in the command line:
+
+`python grade_monte_carlo.py <path-to-student-notebook>`
+
 ## Core Connections to AI
 
 **Training Neural Networks**

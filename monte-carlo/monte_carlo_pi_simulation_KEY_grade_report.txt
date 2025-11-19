@@ -1,0 +1,42 @@
+======================================================================
+MONTE CARLO SIMULATION - GRADING REPORT
+======================================================================
+
+
+Task: generate_random_points (Max: 20 points)
+----------------------------------------------------------------------
+✓ generate_random_points() works correctly!
+Points earned: 20/20
+
+Task: is_inside_circle (Max: 20 points)
+----------------------------------------------------------------------
+✓ is_inside_circle() works correctly!
+Points earned: 20/20
+
+Task: estimate_pi (Max: 25 points)
+----------------------------------------------------------------------
+✓ Estimate improves with more samples
+✓ Good accuracy with large sample size
+✓ estimate_pi() works correctly!
+Points earned: 25/25
+
+Task: analyze_convergence (Max: 15 points)
+----------------------------------------------------------------------
+✓ analyze_convergence() works correctly!
+Points earned: 15/15
+
+Task: run_multiple_simulations (Max: 15 points)
+----------------------------------------------------------------------
+✓ run_multiple_simulations() works correctly!
+Points earned: 15/15
+
+Code Style and Documentation (Max: 5 points)
+----------------------------------------------------------------------
+✓ Code style acceptable
+Points earned: 5/5
+
+======================================================================
+TOTAL SCORE: 100/100
+======================================================================
+Percentage: 100.0%
+Letter Grade: A
