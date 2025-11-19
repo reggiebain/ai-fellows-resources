@@ -4,6 +4,7 @@ Monte Carlo simulations are fundamental to modern artificial intelligence and ma
 
 ## Studnent Activity Notebook
 Click the link below to access the student notebook activity in Google Colab
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./monte_carlo_pi_simulation.ipynb)
 
 ## Teacher KEY
