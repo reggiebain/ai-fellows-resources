@@ -68,20 +68,48 @@ An introduction to Monte Carlo methods through calculating π using random sampl
 6. Submit your completed notebook to your instructor
 
 
-## Technical Requirements
+## Quick Start
 
-### Python Environment
+### Option 1: Google Colab (Easiest for Teachers)
+
+**No installation required!** Click the "Open in Colab" badge at the top of any notebook to run it directly in your browser.
+
+1. Click the Colab badge in the notebook
+2. Sign in with your Google account
+3. Run all cells - packages install automatically
+4. Start teaching!
+
+### Option 2: Local Development with UV
+
+For developers or those who prefer local environments:
+
 ```bash
-# Install required packages
-pip install numpy matplotlib jupyter
+# Install UV (if not already installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
 
-# For grading scripts
-pip install jupyter nbconvert
+# Clone the repository
+git clone https://github.com/reggiebain/ai-fellows-resources.git
+cd ai-fellows-resources
+
+# Create environment and install dependencies
+uv venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv pip install -e .
+
+# Launch Jupyter
+uv run jupyter notebook
 ```
+
+See [SETUP.md](SETUP.md) for detailed installation instructions.
 
 ### Running the Grading Script
 ```bash
-python grade_monte_carlo.py student_notebook.ipynb
+# With UV
+uv run python calculating-pi/grade_monte_carlo.py student_notebook.ipynb
+
+# Or activate the environment first
+source .venv/bin/activate
+python calculating-pi/grade_monte_carlo.py student_notebook.ipynb
 ```
 
 This generates a detailed grade report saved as `student_notebook_grade_report.txt`.

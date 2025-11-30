@@ -1,0 +1,6 @@
+<svg width="200" height="200" viewBox="-1.5 -1.5 3 3" xmlns="http://www.w3.org/2000/svg">
+  <!-- Square of side length 2, centered at origin -->
+  <rect x="-1" y="-1" width="2" height="2" fill="none" stroke="black" stroke-width="0.05"/>
+  <!-- Inscribed circle of radius 1, centered at origin -->
+  <circle cx="0" cy="0" r="1" fill="none" stroke="black" stroke-width="0.05"/>
+</svg>
